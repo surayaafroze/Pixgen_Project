@@ -8,10 +8,10 @@ const TopGeneration =async () => {
   
  
   return (
-    <div>
+    <div className='p-5'>
       <h2 className='text-2xl mt-5 font-bold'>Top Photos</h2>
-      <div>
-        {photos.map(photo=><PhotoCard 
+      <div className='grid grid-cols-4 justify-center items-center gap-8'>
+        {topPhotos.map(photo=><PhotoCard 
         key={photo.id}
         photo={photo}
         ></PhotoCard>)}
