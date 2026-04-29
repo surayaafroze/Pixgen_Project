@@ -1,5 +1,6 @@
 import { Button, Chip } from '@heroui/react';
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 import { FcLike } from 'react-icons/fc';
 import { MdDownloadForOffline } from 'react-icons/md';
@@ -35,7 +36,7 @@ const PhotoCard = ({photo}) => {
     <MdDownloadForOffline></MdDownloadForOffline>
      <p >{downloads}</p>
    </div>
-   <Button variant='outline' className={'w-full bg-purple-500 text-white'}>view details</Button>
+   <Link href={`/allPhotos/${photo.id}`}><Button variant='outline' className={'w-full bg-purple-500 text-white'}>view details</Button></Link>
         </div>
       </div>
     </div>
