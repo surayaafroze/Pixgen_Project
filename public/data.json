@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "title": "Orbital Drift Station",
+    "imageUrl": "https://picsum.photos/seed/orbital1/800/600",
+    "prompt": "A massive space station slowly drifting through a nebula, bioluminescent panels glowing, cinematic wide shot",
+    "category": "Sci-Fi",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 412,
+    "downloads": 97,
+    "createdAt": "2025-04-23T08:14:00Z",
+    "tags": [
+      "space",
+      "station",
+      "nebula",
+      "scifi",
+      "cinematic"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Neon Samurai District",
+    "imageUrl": "https://picsum.photos/seed/neonsamurai/800/600",
+    "prompt": "A lone samurai standing in a rain-soaked cyberpunk alley, holographic kanji signs, neon reflections on wet pavement",
+    "category": "Cyberpunk",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 589,
+    "downloads": 143,
+    "createdAt": "2025-04-24T11:30:00Z",
+    "tags": [
+      "samurai",
+      "neon",
+      "rain",
+      "tokyo",
+      "cyberpunk"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "8-Bit Forest Guardian",
+    "imageUrl": "https://picsum.photos/seed/pixelforest/800/600",
+    "prompt": "A giant tree spirit rendered in 16-color pixel art, glowing eyes, surrounded by tiny adventurers in a dense forest",
+    "category": "Pixel Art",
+    "model": "Stable Diffusion",
+    "resolution": "512x512",
+    "likes": 303,
+    "downloads": 88,
+    "createdAt": "2025-04-25T14:05:00Z",
+    "tags": [
+      "pixel",
+      "forest",
+      "guardian",
+      "sprite",
+      "retro"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Clockwork Leviathan",
+    "imageUrl": "https://picsum.photos/seed/clockwork9/800/600",
+    "prompt": "A colossal mechanical sea creature rising from a fog-covered ocean, brass gears exposed, Victorian-era warships fleeing",
+    "category": "Steampunk",
+    "model": "SDXL",
+    "resolution": "1536x640",
+    "likes": 477,
+    "downloads": 112,
+    "createdAt": "2025-04-26T09:22:00Z",
+    "tags": [
+      "steampunk",
+      "mechanical",
+      "ocean",
+      "leviathan",
+      "brass"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Drowned Kingdom",
+    "imageUrl": "https://picsum.photos/seed/drownkingdom/800/600",
+    "prompt": "An ancient elven palace half-submerged in a crystal lake, moss-covered spires, shafts of golden light from above",
+    "category": "Fantasy",
+    "model": "Midjourney v6",
+    "resolution": "1920x1080",
+    "likes": 534,
+    "downloads": 136,
+    "createdAt": "2025-04-27T16:48:00Z",
+    "tags": [
+      "fantasy",
+      "elven",
+      "underwater",
+      "palace",
+      "light"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Melting Clocktower",
+    "imageUrl": "https://picsum.photos/seed/meltclock/800/600",
+    "prompt": "A baroque clocktower dripping like wax into a checkerboard desert floor, two moons in the sky, hyper-detailed surrealism",
+    "category": "Surreal",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 280,
+    "downloads": 67,
+    "createdAt": "2025-04-28T07:10:00Z",
+    "tags": [
+      "surreal",
+      "clock",
+      "desert",
+      "dali",
+      "melt"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pastel Grid Horizon",
+    "imageUrl": "https://picsum.photos/seed/vaporwave3/800/600",
+    "prompt": "Infinite retrowave grid stretching to a pastel sunset, floating Greek columns, chrome dolphins leaping, lo-fi aesthetic",
+    "category": "Vaporwave",
+    "model": "Stable Diffusion",
+    "resolution": "1280x720",
+    "likes": 392,
+    "downloads": 104,
+    "createdAt": "2025-04-22T20:00:00Z",
+    "tags": [
+      "vaporwave",
+      "grid",
+      "retro",
+      "pastel",
+      "lofi"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Single Stem",
+    "imageUrl": "https://picsum.photos/seed/singlestem/800/600",
+    "prompt": "A single white tulip on a pure white background, soft overhead studio light, ultra-minimal composition, negative space",
+    "category": "Minimal",
+    "model": "SDXL",
+    "resolution": "1024x1024",
+    "likes": 189,
+    "downloads": 54,
+    "createdAt": "2025-04-23T13:45:00Z",
+    "tags": [
+      "minimal",
+      "flower",
+      "white",
+      "studio",
+      "negative-space"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hyperreal Golden Hour",
+    "imageUrl": "https://picsum.photos/seed/goldenhour7/800/600",
+    "prompt": "A weather-worn fisherman on a rocky coastline, golden hour light, photorealistic skin texture, sea spray bokeh",
+    "category": "Realistic",
+    "model": "Midjourney v6",
+    "resolution": "2048x1024",
+    "likes": 511,
+    "downloads": 129,
+    "createdAt": "2025-04-24T18:33:00Z",
+    "tags": [
+      "realistic",
+      "portrait",
+      "golden-hour",
+      "coastal",
+      "photorealistic"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Chrome Genesis Signal",
+    "imageUrl": "https://picsum.photos/seed/chromesignal/800/600",
+    "prompt": "A towering chrome monolith transmitting unknown signals across a terraformed Mars surface, aurora overhead",
+    "category": "Sci-Fi",
+    "model": "DALL·E 3",
+    "resolution": "1920x1080",
+    "likes": 344,
+    "downloads": 80,
+    "createdAt": "2025-04-25T10:17:00Z",
+    "tags": [
+      "scifi",
+      "mars",
+      "monolith",
+      "chrome",
+      "aurora"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Street Market at Midnight",
+    "imageUrl": "https://picsum.photos/seed/streetmkt/800/600",
+    "prompt": "A bustling cyberpunk street market, food stalls with holographic menus, rain and neon, ultra-dense crowd, overhead drone shot",
+    "category": "Cyberpunk",
+    "model": "SDXL",
+    "resolution": "1536x640",
+    "likes": 460,
+    "downloads": 118,
+    "createdAt": "2025-04-26T22:55:00Z",
+    "tags": [
+      "cyberpunk",
+      "market",
+      "rain",
+      "crowd",
+      "drone"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Dragon Cartographer",
+    "imageUrl": "https://picsum.photos/seed/dragoncart/800/600",
+    "prompt": "An old dragon wearing spectacles hunched over an enormous hand-drawn map by candlelight, treasure piles in background",
+    "category": "Fantasy",
+    "model": "Stable Diffusion",
+    "resolution": "1024x1024",
+    "likes": 598,
+    "downloads": 147,
+    "createdAt": "2025-04-27T08:00:00Z",
+    "tags": [
+      "fantasy",
+      "dragon",
+      "map",
+      "candlelight",
+      "character"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Forgotten Arcade",
+    "imageUrl": "https://picsum.photos/seed/pixelarcade/800/600",
+    "prompt": "A dusty 1980s arcade cabinet glowing in pixel art style, isometric perspective, neon signs, low-res character previews",
+    "category": "Pixel Art",
+    "model": "Midjourney v6",
+    "resolution": "960x960",
+    "likes": 267,
+    "downloads": 73,
+    "createdAt": "2025-04-28T15:20:00Z",
+    "tags": [
+      "pixel",
+      "arcade",
+      "isometric",
+      "retro",
+      "80s"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Infinite Staircase",
+    "imageUrl": "https://picsum.photos/seed/infstair/800/600",
+    "prompt": "An Escher-like infinite staircase floating in a void, each step a different biome, dreamlike perspective, surreal geometry",
+    "category": "Surreal",
+    "model": "DALL·E 3",
+    "resolution": "1024x1024",
+    "likes": 423,
+    "downloads": 99,
+    "createdAt": "2025-04-29T06:05:00Z",
+    "tags": [
+      "surreal",
+      "escher",
+      "stairs",
+      "void",
+      "geometry"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Aether Engine Room",
+    "imageUrl": "https://picsum.photos/seed/aethereng/800/600",
+    "prompt": "The interior of a Victorian airship engine room, glowing aether crystals powering massive copper pistons, dramatic upward angle",
+    "category": "Steampunk",
+    "model": "SDXL",
+    "resolution": "1536x864",
+    "likes": 385,
+    "downloads": 93,
+    "createdAt": "2025-04-22T17:40:00Z",
+    "tags": [
+      "steampunk",
+      "airship",
+      "interior",
+      "copper",
+      "crystal"
+    ]
+  }
+]
